@@ -3,5 +3,5 @@ Esta es una configuración de Terraform que crea el servicio de red  en Oracle C
 
 El código de Terraform se usa para crear una pila de Resource Manager, que crea los recursos necesarios y configura la aplicación en los recursos creados.
 
-## Magic Button 
-[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/oracle/terraform-provider-oci/raw/master/examples/zips/networking.zip)
+## Crear
+[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/jesselca96/LaboratoriosOCI/tree/main/Terraforms/Zips/Networking.zip)
