@@ -1,5 +1,7 @@
 # Descripción general
-
-Esta es una configuración de Terraform que crea tema relacionados a Networking en Oracle Cloud Infrastructure.
+Esta es una configuración de Terraform que crea el servicio de red  en Oracle Cloud Infrastructure.
 
 El código de Terraform se usa para crear una pila de Resource Manager, que crea los recursos necesarios y configura la aplicación en los recursos creados.
+
+## Magic Button 
+[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/oracle/terraform-provider-oci/raw/master/examples/zips/networking.zip)
