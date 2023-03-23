@@ -4,4 +4,4 @@ Este directorio contiene archivos de configuraci√≥n de Terraform que muestran c√
 
 
 - Networking  
-    [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/jesselca96/LaboratoriosOCI/tree/main/Terraforms/Zips/Networking.zip)
+    [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/jesselca96/LaboratoriosOCI/raw/db95a820f3f7c9e55861b0705370ab0821035c7b/Terraforms/Zips/Networking.zip
