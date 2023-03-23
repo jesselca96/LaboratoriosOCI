@@ -25,7 +25,7 @@ provider "oci" {
 }
 
 resource "oci_core_vcn" "vcn1" {
-  cidr_block     = "10.0.0.0/16"
+  cidr_block     = "10.10.0.0/16"
   dns_label      = "vcn1"
   compartment_id = var.compartment_ocid
   display_name   = "vcn1"
@@ -33,7 +33,7 @@ resource "oci_core_vcn" "vcn1" {
 
 resource "oci_core_internet_gateway" "test_internet_gateway" {
   compartment_id = var.compartment_ocid
-  display_name   = "testInternetGateway"
+  display_name   = "InternetGWTerraform"
   vcn_id         = oci_core_vcn.vcn1.id
 }
 
